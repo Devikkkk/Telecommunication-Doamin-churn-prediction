@@ -1,1 +1,1 @@
-# Telecommunication-Doamin-churn-prediction
+# Telecommunication-Domain-churn-prediction
